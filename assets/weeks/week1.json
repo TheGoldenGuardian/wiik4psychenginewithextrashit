@@ -1,25 +1,22 @@
 {
 	"songs": [
-		["Dad Battle", "dad", [146, 113, 253]],
-		["South", "spooky", [34, 51, 68]],
-		["Blammed", "pico", [148, 22, 83]],
-		["Milf", "mom", [252, 150, 215]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+		["Bring It", "matt-black", [151, 151, 151]],
+		["Titan Jab", "matt-black", [151, 151, 151]],
+		["Discombobulate", "matt-black", [151, 151, 151]]
 	],
 
 	"weekCharacters": [
-		"bf",
-		"bf",
-		"bf"
+		"",
+		"bf-dark",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "grayzone",
 
-	"storyName": "funkin'",
+	"storyName": "the gray zone",
 	"weekBefore": "week1",
-	"weekName": "Week 1",
+	"weekName": "Week GM",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"hideFreeplay": true
 }
