@@ -31,6 +31,20 @@
 						1545.45454545455,
 						1,
 						45.4545454545455
+					],
+					[
+						1454.54545454545,
+						-1,
+						"defaultCamZoom",
+						"0.8",
+						""
+					],
+					[
+						1818.18181818182,
+						-1,
+						"defaultCamZoom",
+						"0.9",
+						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -60,6 +74,34 @@
 						"Change Character",
 						"dad",
 						"matt-gray"
+					],
+					[
+						2907.19696969697,
+						-1,
+						"Set Camera Zoom",
+						"0.9",
+						""
+					],
+					[
+						2181.81818181818,
+						-1,
+						"defaultCamZoom",
+						"1",
+						""
+					],
+					[
+						2500,
+						-1,
+						"defaultCamZoom",
+						"1.1",
+						""
+					],
+					[
+						2905.30303030303,
+						-1,
+						"defaultCamZoom",
+						"",
+						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -739,6 +781,13 @@
 						14500,
 						2,
 						0
+					],
+					[
+						14543.5606060606,
+						-1,
+						"Focus Camera",
+						"dad",
+						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -839,6 +888,13 @@
 						-1,
 						"Toggle Trail",
 						"dad",
+						""
+					],
+					[
+						15270.8333333333,
+						-1,
+						"Focus Camera",
+						"bf",
 						""
 					]
 				],
@@ -941,6 +997,13 @@
 						15772.7272727273,
 						2,
 						0
+					],
+					[
+						15998.1060606061,
+						-1,
+						"Focus Camera",
+						"dad",
+						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -1041,6 +1104,13 @@
 						-1,
 						"Toggle Trail",
 						"dad",
+						""
+					],
+					[
+						16725.3787878788,
+						-1,
+						"Focus Camera",
+						"bf",
 						""
 					]
 				],
@@ -1143,6 +1213,13 @@
 						17409.0909090909,
 						0,
 						0
+					],
+					[
+						17452.6515151515,
+						-1,
+						"Focus Camera",
+						"dad",
+						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -1243,6 +1320,13 @@
 						-1,
 						"Toggle Trail",
 						"dad",
+						""
+					],
+					[
+						18179.9242424242,
+						-1,
+						"Focus Camera",
+						"bf",
 						""
 					]
 				],
@@ -1345,6 +1429,13 @@
 						18863.6363636364,
 						1,
 						0
+					],
+					[
+						18907.196969697,
+						-1,
+						"Focus Camera",
+						"dad",
+						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -1445,6 +1536,13 @@
 						-1,
 						"Toggle Trail",
 						"dad",
+						""
+					],
+					[
+						19634.4696969697,
+						-1,
+						"Focus Camera",
+						"bf",
 						""
 					]
 				],
@@ -1547,6 +1645,13 @@
 						20318.1818181818,
 						2,
 						0
+					],
+					[
+						20361.7424242424,
+						-1,
+						"Focus Camera",
+						"",
+						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -6295,24 +6400,44 @@
 				"bpm": 330
 			},
 			{
-				"gfSection": false,
 				"lengthInSteps": 16,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
 				"bpm": 330,
 				"changeBPM": false,
 				"mustHitSection": true
 			},
 			{
-				"gfSection": false,
 				"lengthInSteps": 16,
-				"altAnim": false,
 				"typeOfSection": 0,
 				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
 				"bpm": 330,
 				"changeBPM": false,
 				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 330,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 330
 			},
 			{
 				"gfSection": false,
@@ -6328,10 +6453,10 @@
 		"player2": "matt-black",
 		"player3": "gf",
 		"song": "Titan Jab",
-		"validScore": true,
 		"stage": "grayzone",
-		"needsVoices": true,
+		"validScore": true,
 		"sections": 0,
+		"needsVoices": true,
 		"speed": 3,
 		"bpm": 330
 	}
