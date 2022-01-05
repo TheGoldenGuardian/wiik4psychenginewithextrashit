@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "matt idle"
+			"fps": 24,
+			"name": "matt idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				30,
+				100,
 				-40
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "matt left note"
+			"fps": 24,
+			"name": "matt left note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				-20
+				-63
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "matt down note"
+			"fps": 24,
+			"name": "matt down note",
+			"indices": []
 		},
 		{
-			"offsets": [
-				0,
-				10
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				40,
+				-1
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "matt up note"
+			"fps": 24,
+			"name": "matt up note",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-15,
-				-20
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				75,
+				-57
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "matt right note"
+			"fps": 24,
+			"name": "matt right note",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
