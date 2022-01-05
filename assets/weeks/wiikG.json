@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Bring It", "matt-black", [151, 151, 151]],
+		["Titan Jab", "matt-black", [151, 151, 151]],
+		["Discombobulate", "matt-black", [151, 151, 151]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf-dark",
+		""
+	],
+	"weekBackground": "grayzone",
+
+	"storyName": "the gray zone",
+	"weekBefore": "wiik100",
+	"weekName": "Week GM",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

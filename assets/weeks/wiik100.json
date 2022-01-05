@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Edge", "matt-fight", [248, 141, 6]],
+		["Matched", "matt-fight", [248, 141, 6]],
+		["Check Hook", "matt-pissed", [248, 141, 6]],
+		["Endless", "matt-pissed", [248, 141, 6]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "volcano",
+
+	"storyName": "omg leave him alone",
+	"weekBefore": "wiik4",
+	"weekName": "WiiK 100",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["War Of Honour", "matt-fight", [248, 141, 6]],
+		["Opponent", "matt-fight", [248, 141, 6]],
+		["Combat", "matt-pissed", [248, 141, 6]],
+		["Endless Battle", "matt-pissed", [248, 141, 6]],
+		["Champion", "matt-pissed", [248, 141, 6]],
+		["Purgatory", "matt-pissed", [248, 141, 6]],
+		["Swordfight", "matt-pissed", [248, 141, 6]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "volcano",
+
+	"storyName": "matt's fucking pissed",
+	"weekBefore": "",
+	"weekName": "WiiK 4",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

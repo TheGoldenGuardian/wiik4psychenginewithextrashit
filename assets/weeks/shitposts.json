@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Moyai X", "moyai", [174, 173, 160]],
+		["fnaf", "ferd", [238, 138, 104]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "shitposts this shouldn't be readable",
+	"weekBefore": "bonus",
+	"weekName": "shitposts",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

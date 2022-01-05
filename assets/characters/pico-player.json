@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				-5,
-				37
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				78,
-				26
+				79,
+				-11
 			],
 			"loop": false,
 			"fps": 24,
@@ -25,7 +25,7 @@
 		{
 			"offsets": [
 				84,
-				-42
+				-76
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				4,
-				63
+				21,
+				28
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-55,
-				38
+				-52,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
@@ -58,7 +58,7 @@
 		{
 			"offsets": [
 				75,
-				61
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				82,
-				-6
+				84,
+				-36
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				8,
-				100
+				26,
+				65
 			],
 			"loop": false,
 			"fps": 24,
@@ -91,7 +91,7 @@
 		{
 			"offsets": [
 				-47,
-				84
+				48
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-54,
-				12
+				-51,
+				-23
 			],
 			"loop": false,
 			"fps": 24,
@@ -111,20 +111,42 @@
 			"name": "BF HEY"
 		},
 		{
-			"offsets": [
-				-1,
-				36
-			],
 			"loop": false,
+			"offsets": [
+				31,
+				2
+			],
+			"anim": "pre-attack",
 			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				52
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				1
+			],
 			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
 		},
 		{
 			"offsets": [
 				-4,
-				37
+				0
 			],
 			"loop": true,
 			"fps": 24,
@@ -134,8 +156,8 @@
 		},
 		{
 			"offsets": [
-				61,
-				40
+				63,
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,8 +167,8 @@
 		},
 		{
 			"offsets": [
-				1,
-				25
+				3,
+				-14
 			],
 			"loop": true,
 			"fps": 24,
@@ -156,8 +178,8 @@
 		},
 		{
 			"offsets": [
-				1,
-				60
+				3,
+				21
 			],
 			"loop": false,
 			"fps": 24,
@@ -167,43 +189,54 @@
 		},
 		{
 			"offsets": [
-				98,
-				60
+				64,
+				-114
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "dodge",
+			"anim": "dodgeDOWN",
+			"indices": [],
+			"name": "dodge down"
+		},
+		{
+			"offsets": [
+				82,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodgeUP",
 			"indices": [],
 			"name": "boyfriend dodge"
 		},
 		{
 			"offsets": [
-				340,
-				90
+				76,
+				-3
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "attack",
+			"anim": "dodgeRIGHT",
 			"indices": [],
-			"name": "boyfriend attack"
+			"name": "dodge right"
 		},
 		{
 			"offsets": [
-				31,
-				40
+				125,
+				-11
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "pre-attack",
+			"anim": "dodgeLEFT",
 			"indices": [],
-			"name": "bf pre attack"
+			"name": "dodge left"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/pico_player",
 	"position": [
 		0,
-		330
+		340
 	],
 	"healthicon": "pico",
 	"flip_x": true,
@@ -213,8 +246,8 @@
 		85
 	],
 	"camera_position": [
-		0,
-		-10
+		70,
+		10
 	],
 	"sing_duration": 4,
 	"scale": 1

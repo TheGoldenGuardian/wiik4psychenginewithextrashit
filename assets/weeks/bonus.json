@@ -1,0 +1,27 @@
+{
+	"songs": [
+		["Warm Up", "matt", [248, 141, 6]],
+		["Aerobics", "matt-x2", [248, 141, 6]],
+		["Last Round", "matt-x2", [248, 141, 6]],
+		["Sudden Death", "matt-x2", [248, 141, 6]],
+		["Power Link", "rshaggy", [209, 26, 26]],
+		["Power Link LoFi", "bshaggy", [26, 209, 209]],
+		["B Lag", "bshaggy", [26, 209, 209]],
+		["Demagogue", "bshaggy", [26, 209, 209]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "bonus tracks this shouldn't be visible",
+	"weekBefore": "wiikG",
+	"weekName": "Bonus Tracks",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

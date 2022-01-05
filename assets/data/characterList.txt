@@ -19,7 +19,3 @@ senpai-angry
 spirit
 bf-pixel-opponent
 pico-player
-gf-bf
-matt-tired
-matt-fight
-matt-pissed
