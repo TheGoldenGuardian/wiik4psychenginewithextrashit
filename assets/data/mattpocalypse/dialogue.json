@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nice rap man-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OH COME ON"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orangematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wha-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattwiik4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who the fuck..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattwiik4",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "A'ight look, I don't know who the fuck you guys are, but y'all gotta leave."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orangemattmiddle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah man."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why SHOULD I?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattwiik4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is my fucking turf."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Aw nah, this guy got that squiggily diggily red vein on his head."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Trick or treater looking ass outfit,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wrinkly nose, lookin like gordon ramsey's forehead."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I ain't listening to you man."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattwiik4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, you've asked for it fucko."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orangemattmiddle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Blimey, both of you got some pottymouths."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mattwiik4",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fuck off."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmattmiddle",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHY ARE THERE FOUR OF US"
+		}
+	]
+}

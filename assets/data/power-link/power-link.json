@@ -1,7 +1,7 @@
 {
 	"song": {
 		"sectionLengths": [],
-		"player1": "bmatt-ns-player",
+		"player1": "matt-blue-player",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -6290,7 +6290,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "rshaggy",
+		"player2": "shaggy-red",
 		"player3": "gf",
 		"mania": 0,
 		"song": "Power Link",

@@ -1,0 +1,42 @@
+{
+	"storyName": "Vs Ma-- what",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "wiik100",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"matt",
+		"matt",
+		"matt"
+	],
+	"songs": [
+		[
+			"Blue VS Red",
+			"matt",
+			[
+				248, 141, 6
+			]
+		],
+		[
+			"Dimension Break",
+			"matt",
+			[
+				248, 141, 6
+			]
+		],
+		[
+			"Mattpocalypse",
+			"matt-pissed",
+			[
+				248, 141, 6
+			]
+		]
+	],
+	"weekName": "WiiK huh"
+}

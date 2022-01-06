@@ -4830,8 +4830,8 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "bmatt-ns",
-		"player3": null,
+		"player2": "matt-ns-blue",
+		"player3": "matt-ns",
 		"song": "Aerobics",
 		"validScore": true,
 		"needsVoices": false,

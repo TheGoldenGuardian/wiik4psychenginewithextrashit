@@ -4,6 +4,8 @@
 		["Aerobics", "matt-x2", [248, 141, 6]],
 		["Last Round", "matt-x2", [248, 141, 6]],
 		["Sudden Death", "matt-angry", [248, 141, 6]],
+		["GAME OVER", "matt-angry", [248, 141, 6]],
+		["Combat BSide", "matt-pissed", [248, 141, 6]],
 		["Power Link", "rshaggy", [209, 26, 26]],
 		["Power Link LoFi", "bshaggy", [26, 209, 209]],
 		["B Lag", "bshaggy", [26, 209, 209]],

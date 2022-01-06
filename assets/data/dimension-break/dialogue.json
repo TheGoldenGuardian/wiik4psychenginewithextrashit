@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, that was nice, I like how your voice sounds."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks man, yours too--"
+		},
+		{
+			"speed": 0.17,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . . u m"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmatt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orangematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What is going on here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bmattmiddle",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, this got even more confusing."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bluematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You. Rap."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orangematt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh... ight!"
+		}
+	]
+}

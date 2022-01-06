@@ -3,148 +3,137 @@
 		{
 			"offsets": [
 				-5,
-				0
+				20
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "matt idle"
 		},
 		{
 			"offsets": [
-				5,
-				-6
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-20,
-				-50
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "BF NOTE DOWN0"
-		},
-		{
-			"offsets": [
-				-49,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "BF NOTE UP0"
-		},
-		{
-			"offsets": [
-				-48,
-				-7
+				-5,
+				-16
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
-				6,
-				29
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "matt left"
 		},
 		{
 			"offsets": [
 				-20,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matt down"
+		},
+		{
+			"offsets": [
+				-25,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "matt up"
+		},
+		{
+			"offsets": [
+				12,
 				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "matt right"
+		},
+		{
+			"offsets": [
+				-15,
+				-16
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "miss down"
 		},
 		{
 			"offsets": [
-				-49,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "BF NOTE UP MISS"
-		},
-		{
-			"offsets": [
-				-47,
-				39
+				-33,
+				-22
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "miss left"
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				-35,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss up"
+		},
+		{
+			"offsets": [
+				-4,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss right"
+		},
+		{
+			"offsets": [
+				-33,
+				45
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "hey",
 			"indices": [],
-			"name": "BF HEY"
+			"name": "matt up"
 		},
 		{
 			"offsets": [
-				14,
-				19
+				-35,
+				-22
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "hurt",
 			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-9,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
+			"name": "miss left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf/bfSkelly",
+	"image": "characters/matt/matt",
 	"position": [
-		0,
-		350
+		190,
+		340
 	],
-	"healthicon": "bf-skull",
-	"flip_x": true,
+	"healthicon": "matt",
+	"flip_x": false,
 	"healthbar_colors": [
-		73,
-		73,
-		209
+		248,
+		141,
+		26
 	],
 	"camera_position": [
 		0,
