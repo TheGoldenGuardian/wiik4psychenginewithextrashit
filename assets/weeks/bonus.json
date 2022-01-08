@@ -9,7 +9,8 @@
 		["Power Link", "rshaggy", [209, 26, 26]],
 		["Power Link LoFi", "bshaggy", [26, 209, 209]],
 		["B Lag", "bshaggy", [26, 209, 209]],
-		["Demagogue", "bshaggy", [26, 209, 209]]
+		["Demagogue", "bshaggy", [26, 209, 209]],
+		["Triple Trouble", "triplememories", [255, 60, 135]]
 	],
 
 	"weekCharacters": [
