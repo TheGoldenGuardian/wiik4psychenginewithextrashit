@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Light It Up", "matt", [248, 141, 6]],
+		["Ruckus", "matt", [248, 141, 6]],
+		["Target Practice", "matt", [248, 141, 6]]
+	],
+
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "tuesday singing lessons with matt",
+	"weekBefore": "",
+	"weekName": "WiiK 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

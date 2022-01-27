@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Sporting", "matt", [248, 141, 6]],
+		["Boxing Match", "matt", [248, 141, 6]]
+	],
+
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "no more training",
+	"weekBefore": "wiik1",
+	"weekName": "WiiK 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,24 @@
+{
+	"songs": [
+		["Fisticuffs", "matt", [248, 141, 6]],
+		["Wind-Up", "matt", [248, 141, 6]],
+		["Deathmatch", "matt", [248, 141, 6]],
+		["King Hit", "matt", [248, 141, 6]],
+		["TKO", "matt", [248, 141, 6]]
+	],
+
+	"weekCharacters": [
+		"matt",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "guess who's back",
+	"weekBefore": "wiik2",
+	"weekName": "WiiK 3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

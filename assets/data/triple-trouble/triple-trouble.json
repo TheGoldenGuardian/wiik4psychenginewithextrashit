@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf-old",
+		"player1": "bf",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -24105,7 +24105,7 @@
 					[
 						"Change Character",
 						"bf",
-						"bf-old"
+						"bf"
 					]
 				]
 			],
@@ -24145,7 +24145,7 @@
 					[
 						"Change Character",
 						"bf",
-						"bf-old"
+						"bf"
 					]
 				]
 			],
