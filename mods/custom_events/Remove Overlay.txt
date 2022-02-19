@@ -1,0 +1,6 @@
+Removes an image created by "Add Overlay"
+
+Value 1: Tag (to identify which to remove)
+ex. "Test" "Overlay1" "Screen Crack" 
+Value 2: Fade Duration
+ex. "0.1" "6" 

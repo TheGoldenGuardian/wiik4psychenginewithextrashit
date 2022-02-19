@@ -76,7 +76,7 @@
 						6000,
 						-1,
 						"Focus Camera",
-						"gf",
+						"center",
 						""
 					],
 					[
@@ -764,7 +764,7 @@
 						22400,
 						-1,
 						"Focus Camera",
-						"gf",
+						"center",
 						""
 					]
 				],
@@ -1038,7 +1038,7 @@
 						28800,
 						-1,
 						"Focus Camera",
-						"gf",
+						"center",
 						""
 					]
 				],
@@ -2854,7 +2854,7 @@
 						55900,
 						-1,
 						"Focus Camera",
-						"gf",
+						"center",
 						""
 					]
 				],
@@ -3319,7 +3319,7 @@
 						63900,
 						-1,
 						"Focus Camera",
-						"gf",
+						"center",
 						""
 					],
 					[

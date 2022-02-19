@@ -1,0 +1,6 @@
+Sets an image over the screen. 
+
+Value 1: Tag (to make multiple)
+ex. "Test" "Overlay1" "Screen Crack" 
+Value 2: Image 
+ex. "funnyEffect" "sonic/zoomLines" 

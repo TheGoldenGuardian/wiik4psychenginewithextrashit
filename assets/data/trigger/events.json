@@ -1,0 +1,134 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "nevada",
+		"player1": "bf-reanimated",
+		"player2": "hank",
+		"player3": null,
+		"events": [
+			[
+				15157.8947368421,
+				[
+					[
+						"Set Bop Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				24631.5789473684,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				24789.4736842105,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				24947.3684210526,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				25105.2631578947,
+				[
+					[
+						"Play Animation",
+						"idle-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				45473.6842105263,
+				[
+					[
+						"Set Bop Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				55578.9473684211,
+				[
+					[
+						"Set Bop Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				65684.2105263158,
+				[
+					[
+						"Set Bop Speed",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				75789.4736842105,
+				[
+					[
+						"Set Bop Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				85894.7368421053,
+				[
+					[
+						"Focus Camera",
+						"center",
+						"1"
+					],
+					[
+						"Set Bop Speed",
+						"2",
+						""
+					],
+					[
+						"Set GF Speed",
+						"1",
+						""
+					],
+					[
+						"defaultCamZoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 95,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Trigger"
+	}
+}
