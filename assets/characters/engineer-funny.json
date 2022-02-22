@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-32,
+				-7
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "engi left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-67
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "engi down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-28,
+				278
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "engi up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-83,
+				-3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "engi right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "engi idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tf2/engi_funny",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "engineer",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

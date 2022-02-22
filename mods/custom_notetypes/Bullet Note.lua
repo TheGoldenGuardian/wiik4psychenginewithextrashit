@@ -22,10 +22,11 @@ local dodgeAnims = {"dodgeLEFT", "dodgeDOWN", "dodgeUP", "dodgeRIGHT"}
 function goodNoteHit(id, direction, noteType, isSustainNote)
 	if noteType == 'Bullet Note' then
 		-- if difficulty == 1 then
-			playSound('hankshoot', 0.3); -- was 0.5
+			-- playSound('hankshoot', 0.3); -- was 0.5
 		-- end
 		if getProperty('dad.curCharacter') == 'hank' then
 			characterPlayAnim('dad', shootAnims[direction + 1], true);
+			playSound('hankshoot', 0.3); -- was 0.5
 		elseif getProperty('dad.curCharacter') == 'hank-scared' then
 			curDad = getProperty('dad.curCharacter');
 			setProperty('dad.curCharacter', 'hank');

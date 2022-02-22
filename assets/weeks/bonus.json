@@ -26,7 +26,8 @@
 		["Detonator", "whitty", [29, 30, 53]],
 		["Trigger", "hank", [29, 30, 53]],
 		["Powerless", "hank", [29, 30, 53]],
-		["Bonkless", "scout", [255, 0, 0]]
+		["Bonkless", "scout", [255, 0, 0]],
+		["Undercover", "engineer", [255, 0, 0]]
 	],
 
 	"weekCharacters": [
