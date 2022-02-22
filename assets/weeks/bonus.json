@@ -25,7 +25,8 @@
 		["Madness", "tricky", [24, 95, 64]],
 		["Detonator", "whitty", [29, 30, 53]],
 		["Trigger", "hank", [29, 30, 53]],
-		["Powerless", "hank", [29, 30, 53]]
+		["Powerless", "hank", [29, 30, 53]],
+		["Bonkless", "scout", [255, 0, 0]]
 	],
 
 	"weekCharacters": [

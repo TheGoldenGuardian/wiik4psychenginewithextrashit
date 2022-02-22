@@ -6,6 +6,9 @@ function onCreate()
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashHue', 0); --custom notesplash color, why not
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashSat', -20);
 			setPropertyFromGroup('unspawnNotes', i, 'noteSplashBrt', 1);
+			setPropertyFromGroup('unspawnNotes', i, 'colorSwap.hue', 0); --custom note color so it doesnt fucking tint
+			setPropertyFromGroup('unspawnNotes', i, 'colorSwap.saturation', 0);
+			setPropertyFromGroup('unspawnNotes', i, 'colorSwap.brightness', 0);
 
 			if getPropertyFromGroup('unspawnNotes', i, 'mustPress') then --Doesn't let BF's notes get ignored
 				setPropertyFromGroup('unspawnNotes', i, 'ignoreNote', false); --Miss has penalties
