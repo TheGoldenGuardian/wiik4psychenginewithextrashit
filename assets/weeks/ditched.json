@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Resort", "matt", [248, 141, 6]],
+		["Bonus Round", "matt", [248, 141, 6]],
+		["Interdimensional", "shaggyxmatt", [248, 141, 6]],
+		["The Devourer of Gods", "dog", [131, 142, 172]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "songs I just never finished",
+	"weekBefore": "shitposts",
+	"weekName": "unfinished tracks",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": true
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Matt Diablo Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Matt Diablo Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				85,
+				-29
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Matt Diablo Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-236,
+				-41
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Matt Diablo Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-238,
+				-155
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Matt Diablo Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt/Diablo_Matt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "matt-diablo",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		37,
+		78
+	],
+	"camera_position": [
+		250,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.25
+}

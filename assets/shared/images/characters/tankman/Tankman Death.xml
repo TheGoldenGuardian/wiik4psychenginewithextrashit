@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tankman Death.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tankman Death Loop0000" x="1964" y="3080" width="489" height="612" pivotX="265.6" pivotY="305.3" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0001" x="2455" y="3080" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0002" x="2455" y="3080" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0003" x="2946" y="3684" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0004" x="2946" y="3684" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0005" x="0" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0006" x="1473" y="3697" width="488" height="613" frameX="0" frameY="0" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0007" x="982" y="4311" width="488" height="613" frameX="0" frameY="0" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0008" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0009" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0010" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0011" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0012" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0013" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0014" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0015" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0016" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0017" x="1964" y="3080" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0018" x="2455" y="3080" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0019" x="2455" y="3080" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0020" x="2946" y="3684" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0021" x="2946" y="3684" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0022" x="0" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0023" x="0" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0024" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0025" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0026" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0027" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0028" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0029" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0030" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0031" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0032" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman Death Loop0033" x="491" y="3700" width="489" height="612" frameX="0" frameY="-1" frameWidth="489" frameHeight="613"/>
+	<SubTexture name="Tankman First Death0000" x="0" y="4314" width="467" height="604" pivotX="273.65" pivotY="308.1" frameX="-30" frameY="0" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0001" x="0" y="4920" width="467" height="604" frameX="-30" frameY="0" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0002" x="469" y="4314" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0003" x="469" y="4913" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0004" x="469" y="4913" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0005" x="1963" y="3697" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0006" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0007" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0008" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0009" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0010" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0011" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0012" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0013" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0014" x="1963" y="4296" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0015" x="1472" y="4312" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0016" x="1472" y="4312" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0017" x="1472" y="4312" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0018" x="2433" y="3694" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0019" x="2433" y="3694" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0020" x="2433" y="4293" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0021" x="2433" y="4293" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0022" x="2903" y="4298" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0023" x="2903" y="4298" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0024" x="1942" y="4895" width="468" height="597" frameX="-29" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0025" x="491" y="0" width="497" height="620" frameX="0" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0026" x="491" y="0" width="497" height="620" frameX="0" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0027" x="983" y="622" width="492" height="611" frameX="-5" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0028" x="983" y="622" width="492" height="611" frameX="-5" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0029" x="491" y="622" width="490" height="614" frameX="-7" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0030" x="491" y="622" width="490" height="614" frameX="-7" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0031" x="2463" y="0" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0032" x="2463" y="0" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0033" x="2463" y="0" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0034" x="2463" y="0" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0035" x="2463" y="614" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0036" x="2459" y="1228" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0037" x="2456" y="1842" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0038" x="2946" y="2456" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0039" x="2954" y="0" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0040" x="2954" y="614" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0041" x="2950" y="1228" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0042" x="2950" y="1228" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0043" x="2947" y="1842" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0044" x="2946" y="3070" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0045" x="2946" y="3070" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0046" x="0" y="3086" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0047" x="491" y="3086" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0048" x="982" y="3083" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman First Death0049" x="1473" y="3083" width="489" height="612" frameX="-8" frameY="-4" frameWidth="497" frameHeight="624"/>
+	<SubTexture name="Tankman Retry0000" x="982" y="3697" width="489" height="612" pivotX="265.6" pivotY="336.2" frameX="0" frameY="-32" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0001" x="990" y="0" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0002" x="0" y="0" width="489" height="644"/>
+	<SubTexture name="Tankman Retry0003" x="983" y="1235" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0004" x="0" y="1238" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0005" x="491" y="1238" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0006" x="1474" y="1235" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0007" x="1481" y="0" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0008" x="1477" y="616" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0009" x="1965" y="1232" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0010" x="1972" y="0" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0011" x="1968" y="616" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0012" x="1965" y="1848" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0013" x="0" y="1854" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0014" x="491" y="1854" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0015" x="982" y="1851" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0016" x="1473" y="1851" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0017" x="1964" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0018" x="0" y="2470" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0019" x="491" y="2470" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0020" x="982" y="2467" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0021" x="1473" y="2467" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0022" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0023" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0024" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0025" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0026" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0027" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0028" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0029" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0030" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0031" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0032" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+	<SubTexture name="Tankman Retry0033" x="2455" y="2464" width="489" height="614" frameX="0" frameY="-30" frameWidth="489" frameHeight="644"/>
+</TextureAtlas>

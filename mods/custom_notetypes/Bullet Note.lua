@@ -32,6 +32,8 @@ function goodNoteHit(id, direction, noteType, isSustainNote)
 			setProperty('dad.curCharacter', 'hank');
 			characterPlayAnim('dad', shootAnims[direction + 1], true);
 			runTimer('shootanim', 1, 1);
+		else
+			playSound('tf2pistol', 0.3); -- was 0.5
 		end
 		setProperty('dad.specialAnim', true);
 		-- if getProperty('bf.curCharacter') == 'bf-reanimated' then

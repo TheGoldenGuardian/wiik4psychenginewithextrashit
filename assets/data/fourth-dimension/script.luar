@@ -1,0 +1,26 @@
+function onCreate()
+	-- triggered when the lua file is started
+	-- addCharacterToList('pico-player', 'boyfriend');
+	-- addCharacterToList('bf-christmas', 'boyfriend');
+	-- addCharacterToList('bf', 'boyfriend');
+	addCharacterToList('shaggy-red', 'dad');
+	addCharacterToList('shaggy-blue', 'dad');
+	addCharacterToList('shaggy-purple', 'dad');
+end
+
+function onUpdate(elapsed)
+	-- start of "update", some variables weren't updated yet
+	if keyJustPressed('left') then
+		-- triggerEvent('Change Character', 0, 'bf-christmas');
+		triggerEvent('Change Character', 1, 'shaggy-purple');
+	elseif keyJustPressed('down') then
+		-- triggerEvent('Change Character', 0, 'bf');
+		triggerEvent('Change Character', 1, 'shaggy-blue');
+	elseif keyJustPressed('up') then
+		-- triggerEvent('Change Character', 0, 'bf-car');
+		triggerEvent('Change Character', 1, 'shaggy');
+	elseif keyJustPressed('right') then
+		-- triggerEvent('Change Character', 0, 'pico-player');
+		triggerEvent('Change Character', 1, 'shaggy-red');
+	end
+end
