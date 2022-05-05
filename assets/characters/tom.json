@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TomLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-72
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TomDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TomUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TomRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TomIdle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "TomHEY!!"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				282,
+				-21
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "TomSusanLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "TomSusanIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				-160
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "TomSusanDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				77
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "TomSusanUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "TomSusanRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				6
+			],
+			"anim": "startup",
+			"fps": 32,
+			"name": "TomSusanStartup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eddsworld/Tom Assets",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "tom",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		22,
+		206
+	],
+	"camera_position": [
+		-90,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

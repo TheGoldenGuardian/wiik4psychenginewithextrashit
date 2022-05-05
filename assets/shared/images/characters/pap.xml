@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pap.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="left0000" x="0" y="0" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="left0001" x="0" y="33" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="lalt0000" x="0" y="99" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="lalt0001" x="0" y="132" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="lmiss0000" x="0" y="66" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="down0000" x="22" y="0" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="down0001" x="22" y="33" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="dalt0000" x="22" y="99" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="dalt0001" x="22" y="132" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="dmiss0000" x="22" y="66" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="up0000" x="44" y="0" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="up0001" x="44" y="33" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="ualt0000" x="44" y="99" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="ualt0001" x="44" y="132" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="umiss0000" x="44" y="66" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="right0000" x="66" y="0" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="right0001" x="66" y="33" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="ralt0000" x="66" y="99" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="ralt0001" x="66" y="132" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="rmiss0000" x="66" y="66" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="idle0000" x="88" y="33" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+	<SubTexture name="hey0000" x="88" y="0" width="22" height="33" frameX="0" frameY="0" frameWidth="22" frameHeight="33"/>
+</TextureAtlas>

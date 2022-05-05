@@ -1,0 +1,95 @@
+{
+	"songs": [
+		[
+			"Galactic Stars",
+			"mattgg",
+			[
+				146,
+				233,
+				253
+			]
+		],
+		[
+			"Nebula",
+			"mattgg",
+			[
+				80,
+				153,
+				235
+			]
+		],
+		[
+			"Starstruck",
+			"mattgg",
+			[
+				206,
+				175,
+				115
+			]
+		],
+		[
+			"Solar",
+			"mattggod",
+			[
+				146,
+				93,
+				215
+			]
+		],
+		[
+			"Wonders",
+			"mattgg",
+			[
+				86,
+				153,
+				233
+			]
+		],
+		[
+			"Above the Stars",
+			"mattggod",
+			[
+				146,
+				193,
+				253
+			]
+		],
+		[
+			"Uppercut",
+			"mattgg",
+			[
+				86,
+				113,
+				193
+			]
+		],
+		[
+			"Punch Out",
+			"mattgg",
+			[
+				86,
+				93,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Graffiti Galaxy",
+	"weekName": "galaxy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

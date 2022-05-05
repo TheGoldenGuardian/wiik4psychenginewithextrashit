@@ -9,12 +9,13 @@
 		["Blackout", "matt", [248, 141, 6]],
 		["Practice Round", "matt-angry", [248, 141, 6]],
 		["Payback", "matt-angry", [248, 141, 6]],
+		["Neverending", "matt", [248, 141, 6]],
 		["Combat BSide", "matt-pissed", [248, 141, 6]],
 		["Strategy", "shaggyxmatt", [248, 141, 6]],
+		["Addition", "shaggyxmatt", [248, 141, 6]],
 		["Power Link", "rshaggy", [209, 26, 26]],
 		["Power Link LoFi", "bshaggy", [26, 209, 209]],
 		["B Lag", "bshaggy", [26, 209, 209]],
-		["Demagogue", "bshaggy", [26, 209, 209]],
 		["Triple Trouble", "triplememories", [255, 60, 135]],
 		["Pico Link", "tricky-mask", [24, 95, 64]],
 		["Buck Bumble", "bf", [255, 255, 255]],
@@ -25,8 +26,15 @@
 		["Bonkless", "scout", [255, 0, 0]],
 		["Undercover", "engineer", [255, 0, 0]],
 		["Fourth Dimension", "shaggy-all", [42, 42, 42]],
+		["Super Saiyan", "shaggy", [246, 37, 78]],
 		["Confronting Yourself", "fakeman", [250, 250, 250]],
-		["Shadowboxing", "matt-diablo", [246, 37, 78]]
+		["Parasite", "tankman", [250, 250, 250]],
+		["Shadowboxing", "matt-diablo", [246, 37, 78]],
+		["No", "moyai", [246, 37, 78]],
+		["Mayhem", "thomson", [0, 153, 102]],
+		["Pivot", "mattj", [246, 160, 0]],
+		["Murderface", "tricky-mask", [29, 30, 53]],
+		["FUSHIGINACHIKARA", "pshaggy", [29, 30, 53]]
 	],
 
 	"weekCharacters": [

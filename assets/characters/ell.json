@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ell Idle"
+		},
+		{
+			"offsets": [
+				85,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ell Up"
+		},
+		{
+			"offsets": [
+				74,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ell Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ell Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ell Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eddsworld/Ell_Assets",
+	"position": [
+		70,
+		100
+	],
+	"healthicon": "ell",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		173,
+		51
+	],
+	"camera_position": [
+		90,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

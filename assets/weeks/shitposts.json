@@ -2,7 +2,11 @@
 	"songs": [
 		["Moyai X", "moyai", [174, 173, 160]],
 		["fnaf", "ferd", [238, 138, 104]],
-		["Rush E", "moyai", [174, 173, 160]]
+		["Rush E", "moyai", [174, 173, 160]],
+		["neoue", "pap", [255, 255, 255]],
+		["Door Stuck", "moyai", [255, 255, 255]],
+		["Bury the Light", "moyai", [255, 255, 255]],
+		["Devil Trigger", "moyai", [255, 255, 255]]
 	],
 
 	"weekCharacters": [

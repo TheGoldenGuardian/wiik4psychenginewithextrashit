@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Tori Idle"
+		},
+		{
+			"offsets": [
+				86,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Tori Left"
+		},
+		{
+			"offsets": [
+				40,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Tori Up"
+		},
+		{
+			"offsets": [
+				-5,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Tori Right"
+		},
+		{
+			"offsets": [
+				-24,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Tori Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eddsworld/Tori_Assets",
+	"position": [
+		0,
+		40
+	],
+	"healthicon": "tori",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		18,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

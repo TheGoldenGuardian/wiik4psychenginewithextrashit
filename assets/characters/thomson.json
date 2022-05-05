@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chaos idle"
+		},
+		{
+			"offsets": [
+				52,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "chaos up"
+		},
+		{
+			"offsets": [
+				52,
+				189
+			],
+			"loop": false,
+			"fps": 2,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "chaos umiss"
+		},
+		{
+			"offsets": [
+				-154,
+				104
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "chaos right"
+		},
+		{
+			"offsets": [
+				-154,
+				104
+			],
+			"loop": true,
+			"fps": 2,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "chaos rmiss"
+		},
+		{
+			"offsets": [
+				195,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "chaos left"
+		},
+		{
+			"offsets": [
+				195,
+				12
+			],
+			"loop": false,
+			"fps": 2,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "chaos lmiss"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "chaos down"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 2,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "chaos dmiss"
+		},
+		{
+			"offsets": [
+				111,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "notbad",
+			"indices": [],
+			"name": "chaos not bad"
+		},
+		{
+			"offsets": [
+				119,
+				248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "haha",
+			"indices": [],
+			"name": "chaos long laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chaos_assets",
+	"position": [
+		-520,
+		115
+	],
+	"healthicon": "thomson",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		102
+	],
+	"camera_position": [
+		300,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

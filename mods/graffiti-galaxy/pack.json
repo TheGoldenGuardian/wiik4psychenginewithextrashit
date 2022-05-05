@@ -1,0 +1,6 @@
+{
+	"name": "Graffiti Galaxy",
+	"description": "Ported Graffiti Galaxy content.",
+	"restart":false,
+	"color": [170, 0, 255]
+}

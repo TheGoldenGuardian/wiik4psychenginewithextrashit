@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "TomSusanIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "TomSusanLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "TomSusanDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				69
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "TomSusanUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-122,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "TomSusanRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-117,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "TomSusanHEY!!"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eddsworld/tomSusan Assets",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "tom-susan",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		22,
+		206
+	],
+	"camera_position": [
+		-90,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

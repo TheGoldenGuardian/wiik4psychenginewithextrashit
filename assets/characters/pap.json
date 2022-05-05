@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "lalt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "dalt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "ualt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 8,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ralt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "lmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dmiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "umiss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 1,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rmiss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pap",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "pap",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 10
+}

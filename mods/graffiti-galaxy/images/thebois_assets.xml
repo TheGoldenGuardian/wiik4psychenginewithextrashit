@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thebois_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="the bois0000" x="0" y="0" width="2037" height="1125" frameX="0" frameY="-66" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0001" x="0" y="0" width="2037" height="1125" frameX="0" frameY="-66" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0002" x="2037" y="0" width="2001" height="1177" frameX="-18" frameY="-14" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0003" x="2037" y="0" width="2001" height="1177" frameX="-18" frameY="-14" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0004" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0005" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0006" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0007" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0008" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0009" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0010" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0011" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0012" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+	<SubTexture name="the bois0013" x="0" y="1177" width="1978" height="1191" frameX="-30" frameY="0" frameWidth="2037" frameHeight="1191"/>
+</TextureAtlas>

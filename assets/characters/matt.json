@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MattLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MattUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MattRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-78
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MattDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MattIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				4
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "MattHEY!!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "MattSupLeft"
+		},
+		{
+			"offsets": [
+				-2,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "MattSupUp"
+		},
+		{
+			"offsets": [
+				-53,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "MattSupRight"
+		},
+		{
+			"offsets": [
+				-32,
+				-78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "MattSupDown"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "MattSupIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eddsworld/Matt Assets",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "ew-matt",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		180,
+		115
+	],
+	"camera_position": [
+		-90,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

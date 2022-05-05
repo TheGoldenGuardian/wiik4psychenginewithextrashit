@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				94
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ALT_matt down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				106
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ALT_matt left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ALT_matt right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				227
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ALT_matt up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ALT_matt left0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matt/Matt_Beatbox",
+	"position": [
+		60,
+		420
+	],
+	"healthicon": "mattgg",
+	"flip_x": false,
+	"healthbar_colors": [
+		143,
+		217,
+		230
+	],
+	"camera_position": [
+		-70,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

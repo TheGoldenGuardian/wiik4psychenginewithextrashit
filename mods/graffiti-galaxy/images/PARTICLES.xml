@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PARTICLES_animation.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="particles0000" x="0" y="0" width="601" height="601"/>
+	<SubTexture name="particles0001" x="601" y="0" width="601" height="601"/>
+	<SubTexture name="particles0002" x="1202" y="0" width="601" height="601"/>
+	<SubTexture name="particles0003" x="1803" y="0" width="601" height="601"/>
+	<SubTexture name="particles0004" x="2404" y="0" width="601" height="601"/>
+	<SubTexture name="particles0005" x="3005" y="0" width="601" height="601"/>
+	<SubTexture name="particles0006" x="0" y="601" width="601" height="601"/>
+	<SubTexture name="particles0007" x="601" y="601" width="601" height="601"/>
+	<SubTexture name="particles0008" x="1202" y="601" width="601" height="601"/>
+	<SubTexture name="particles0009" x="1803" y="601" width="601" height="601"/>
+	<SubTexture name="particles0010" x="2404" y="601" width="601" height="601"/>
+	<SubTexture name="particles0011" x="3005" y="601" width="601" height="601"/>
+	<SubTexture name="particles0012" x="0" y="1202" width="601" height="601"/>
+	<SubTexture name="particles0013" x="601" y="1202" width="601" height="601"/>
+	<SubTexture name="particles0014" x="1202" y="1202" width="601" height="601"/>
+	<SubTexture name="particles0015" x="1803" y="1202" width="601" height="601"/>
+	<SubTexture name="particles0016" x="2404" y="1202" width="601" height="601"/>
+	<SubTexture name="particles0017" x="3005" y="1202" width="601" height="601"/>
+	<SubTexture name="particles0018" x="0" y="1803" width="601" height="601"/>
+	<SubTexture name="particles0019" x="601" y="1803" width="601" height="601"/>
+	<SubTexture name="particles0020" x="1202" y="1803" width="601" height="601"/>
+	<SubTexture name="particles0021" x="1803" y="1803" width="601" height="601"/>
+	<SubTexture name="particles0022" x="2404" y="1803" width="601" height="601"/>
+	<SubTexture name="particles0023" x="3005" y="1803" width="601" height="601"/>
+	<SubTexture name="particles0024" x="0" y="2404" width="601" height="601"/>
+	<SubTexture name="particles0025" x="601" y="2404" width="601" height="601"/>
+	<SubTexture name="particles0026" x="1202" y="2404" width="601" height="601"/>
+	<SubTexture name="particles0027" x="1803" y="2404" width="601" height="601"/>
+	<SubTexture name="particles0028" x="2404" y="2404" width="601" height="601"/>
+	<SubTexture name="particles0029" x="3005" y="2404" width="601" height="601"/>
+	<SubTexture name="particles0030" x="0" y="3005" width="601" height="601"/>
+	<SubTexture name="particles0031" x="601" y="3005" width="601" height="601"/>
+	<SubTexture name="particles0032" x="1202" y="3005" width="601" height="601"/>
+	<SubTexture name="particles0033" x="1803" y="3005" width="601" height="601"/>
+	<SubTexture name="particles0034" x="2404" y="3005" width="601" height="601"/>
+	<SubTexture name="particles0035" x="3005" y="3005" width="601" height="601"/>
+	<SubTexture name="particles0036" x="0" y="3606" width="601" height="601"/>
+	<SubTexture name="particles0037" x="601" y="3606" width="601" height="601"/>
+	<SubTexture name="particles0038" x="1202" y="3606" width="601" height="601"/>
+	<SubTexture name="particles0039" x="1803" y="3606" width="601" height="601"/>
+	<SubTexture name="particles0040" x="2404" y="3606" width="601" height="601"/>
+	<SubTexture name="particles0041" x="3005" y="3606" width="601" height="601"/>
+	<SubTexture name="particles0042" x="0" y="4207" width="601" height="601"/>
+	<SubTexture name="particles0043" x="601" y="4207" width="601" height="601"/>
+</TextureAtlas>

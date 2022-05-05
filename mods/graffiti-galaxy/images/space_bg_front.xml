@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="space_bg_front.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ROCKS0000" x="0" y="0" width="2175" height="1280" frameX="0" frameY="0" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0001" x="0" y="0" width="2175" height="1280" frameX="0" frameY="0" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0002" x="2175" y="0" width="2176" height="1297" frameX="0" frameY="-3" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0003" x="2175" y="0" width="2176" height="1297" frameX="0" frameY="-3" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0004" x="4351" y="0" width="2176" height="1305" frameX="0" frameY="-7" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0005" x="4351" y="0" width="2176" height="1305" frameX="0" frameY="-7" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0006" x="0" y="1305" width="2176" height="1300" frameX="0" frameY="-14" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0007" x="0" y="1305" width="2176" height="1300" frameX="0" frameY="-14" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0008" x="2176" y="1305" width="2176" height="1279" frameX="0" frameY="-33" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0009" x="2176" y="1305" width="2176" height="1279" frameX="0" frameY="-33" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0010" x="4352" y="1305" width="2176" height="1271" frameX="0" frameY="-21" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0011" x="4352" y="1305" width="2176" height="1271" frameX="0" frameY="-21" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0012" x="0" y="2605" width="2176" height="1265" frameX="0" frameY="-5" frameWidth="2176" frameHeight="1313"/>
+	<SubTexture name="ROCKS0013" x="0" y="2605" width="2176" height="1265" frameX="0" frameY="-5" frameWidth="2176" frameHeight="1313"/>
+</TextureAtlas>

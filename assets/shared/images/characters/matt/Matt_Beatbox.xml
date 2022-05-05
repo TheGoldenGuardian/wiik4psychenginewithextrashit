@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Matt_Beatboz.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ALT_matt down0000" x="0" y="0" width="253" height="390" frameX="0" frameY="-13" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0001" x="0" y="0" width="253" height="390" frameX="0" frameY="-13" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0002" x="253" y="0" width="241" height="393" frameX="-6" frameY="-10" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0003" x="253" y="0" width="241" height="393" frameX="-6" frameY="-10" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0004" x="494" y="0" width="231" height="397" frameX="-11" frameY="-6" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0005" x="494" y="0" width="231" height="397" frameX="-11" frameY="-6" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0006" x="725" y="0" width="231" height="403" frameX="-11" frameY="0" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0007" x="725" y="0" width="231" height="403" frameX="-11" frameY="0" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0008" x="725" y="0" width="231" height="403" frameX="-11" frameY="0" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0009" x="725" y="0" width="231" height="403" frameX="-11" frameY="0" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0010" x="725" y="0" width="231" height="403" frameX="-11" frameY="0" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0011" x="725" y="0" width="231" height="403" frameX="-11" frameY="0" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0012" x="725" y="0" width="231" height="403" frameX="-11" frameY="0" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt down0013" x="725" y="0" width="231" height="403" frameX="-11" frameY="0" frameWidth="253" frameHeight="403"/>
+	<SubTexture name="ALT_matt left0000" x="956" y="0" width="502" height="419" frameX="0" frameY="0" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0001" x="956" y="0" width="502" height="419" frameX="0" frameY="0" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0002" x="1458" y="0" width="459" height="419" frameX="-43" frameY="0" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0003" x="1458" y="0" width="459" height="419" frameX="-43" frameY="0" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0004" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0005" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0006" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0007" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0008" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0009" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0010" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0011" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0012" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt left0013" x="0" y="419" width="416" height="417" frameX="-87" frameY="-2" frameWidth="503" frameHeight="419"/>
+	<SubTexture name="ALT_matt right0000" x="416" y="419" width="338" height="424" frameX="-1" frameY="0" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0001" x="416" y="419" width="338" height="424" frameX="-1" frameY="0" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0002" x="754" y="419" width="332" height="424" frameX="0" frameY="0" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0003" x="754" y="419" width="332" height="424" frameX="0" frameY="0" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0004" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0005" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0006" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0007" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0008" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0009" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0010" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0011" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0012" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt right0013" x="1086" y="419" width="328" height="423" frameX="0" frameY="-1" frameWidth="339" frameHeight="424"/>
+	<SubTexture name="ALT_matt up0000" x="1414" y="419" width="292" height="565" frameX="-1" frameY="0" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0001" x="1414" y="419" width="292" height="565" frameX="-1" frameY="0" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0002" x="1706" y="419" width="299" height="553" frameX="0" frameY="-12" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0003" x="1706" y="419" width="299" height="553" frameX="0" frameY="-12" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0004" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0005" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0006" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0007" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0008" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0009" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0010" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0011" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0012" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+	<SubTexture name="ALT_matt up0013" x="0" y="984" width="303" height="549" frameX="0" frameY="-16" frameWidth="303" frameHeight="565"/>
+</TextureAtlas>

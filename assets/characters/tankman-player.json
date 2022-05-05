@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				54,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Tankman Idle Dance"
+		},
+		{
+			"offsets": [
+				89,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Tankman UP note instance"
+		},
+		{
+			"offsets": [
+				123,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Tankman DOWN note instance"
+		},
+		{
+			"offsets": [
+				146,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Tankman Note Left instance"
+		},
+		{
+			"offsets": [
+				29,
+				68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Tankman Right Note instance"
+		},
+		{
+			"offsets": [
+				89,
+				131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Tankman UP note MISS"
+		},
+		{
+			"offsets": [
+				123,
+				-28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Tankman DOWN note MISS"
+		},
+		{
+			"offsets": [
+				146,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Tankman Note Left MISS"
+		},
+		{
+			"offsets": [
+				29,
+				68
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Tankman Right Note MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tankman/Tankman",
+	"position": [
+		81,
+		299
+	],
+	"healthicon": "tankman",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		235
+	],
+	"camera_position": [
+		-128,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

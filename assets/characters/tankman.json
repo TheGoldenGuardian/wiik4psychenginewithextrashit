@@ -1,107 +1,96 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				54,
 				80
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Tankman Idle Dance"
+			"fps": 24,
+			"name": "Tankman Idle Dance",
+			"indices": []
 		},
 		{
-			"offsets": [
-				89,
-				131
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP",
 			"loop": false,
-			"name": "Tankman UP note instance"
-		},
-		{
 			"offsets": [
-				123,
-				-28
+				143,
+				-18
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "Tankman DOWN note instance"
+			"fps": 24,
+			"name": "Tankman DOWN note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				146,
-				50
+				70
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "Tankman Note Left instance"
+			"fps": 24,
+			"name": "Tankman Right Note",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				29,
-				68
+				40,
+				54
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "Tankman Right Note instance"
+			"fps": 24,
+			"name": "Tankman Note Left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				89,
-				131
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUPmiss",
 			"loop": false,
-			"name": "Tankman UP note MISS"
+			"offsets": [
+				34,
+				71
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "TANKMAN UGH",
+			"indices": []
 		},
 		{
-			"offsets": [
-				123,
-				-28
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singDOWNmiss",
 			"loop": false,
-			"name": "Tankman DOWN note MISS"
+			"offsets": [
+				46,
+				96
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "PRETTY GOOD tankman",
+			"indices": []
 		},
 		{
-			"offsets": [
-				146,
-				50
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singLEFTmiss",
 			"loop": false,
-			"name": "Tankman Note Left MISS"
+			"offsets": [
+				46,
+				96
+			],
+			"anim": "pgoodcg",
+			"fps": 33,
+			"name": "PRETTY GOOD tankman",
+			"indices": []
 		},
 		{
-			"offsets": [
-				29,
-				68
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHTmiss",
 			"loop": false,
-			"name": "Tankman Right Note MISS"
+			"offsets": [
+				92,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tankman UP",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/tankman/Tankman",
+	"image": "characters/tankman/TankmanCaptian",
 	"position": [
 		81,
 		299

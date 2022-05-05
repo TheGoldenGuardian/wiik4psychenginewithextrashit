@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-166
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-166
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-197
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-131
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-166
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-166
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "bf smugg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-159
+			],
+			"anim": "singLEFT-smug",
+			"fps": 24,
+			"name": "bf smug left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-137
+			],
+			"anim": "singUP-smug",
+			"fps": 24,
+			"name": "bf smug up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-166
+			],
+			"anim": "singRIGHT-smug",
+			"fps": 24,
+			"name": "bf smug right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				11,
+				-165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf left0"
+		},
+		{
+			"offsets": [
+				10,
+				-187
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down0"
+		},
+		{
+			"offsets": [
+				-20,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up0"
+		},
+		{
+			"offsets": [
+				-55,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf right0"
+		},
+		{
+			"offsets": [
+				9,
+				-193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-smug",
+			"indices": [],
+			"name": "bf down smug"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-166
+			],
+			"anim": "idle-smug",
+			"fps": 24,
+			"name": "bf smugg",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-15,
+				-166
+			],
+			"anim": "grin",
+			"fps": 24,
+			"name": "bf grin",
+			"indices": []
+		},
+		{
+			"offsets": [
+				32,
+				-156
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "startle",
+			"indices": [],
+			"name": "bf startle0"
+		},
+		{
+			"offsets": [
+				8,
+				-175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "startle2",
+			"indices": [],
+			"name": "bf startle 2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/bf",
+	"position": [
+		50,
+		50
+	],
+	"healthicon": "bf-sky",
+	"flip_x": true,
+	"healthbar_colors": [
+		47,
+		168,
+		222
+	],
+	"camera_position": [
+		0,
+		170
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
