@@ -76,7 +76,7 @@
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"difficulties": "Normal",
+	"difficulties": "Normal,Coolswag",
 	"weekCharacters": [
 		"dad",
 		"bf",
