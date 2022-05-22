@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "NeneIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-36
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "NeneDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "NeneUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				-1
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "NeneHEY!",
+			"indices": []
+		},
+		{
+			"offsets": [
+				157,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "NeneRight"
+		},
+		{
+			"offsets": [
+				-5,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "NeneLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nene",
+	"position": [
+		20,
+		340
+	],
+	"healthicon": "nene",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		119,
+		195
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

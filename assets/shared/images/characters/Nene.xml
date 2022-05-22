@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nene.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="NeneDown0000" x="0" y="0" width="560" height="401" frameX="0" frameY="-9" frameWidth="560" frameHeight="411"/>
+	<SubTexture name="NeneDown0001" x="0" y="0" width="560" height="401" frameX="0" frameY="-9" frameWidth="560" frameHeight="411"/>
+	<SubTexture name="NeneDown0002" x="560" y="0" width="544" height="411" frameX="-8" frameY="0" frameWidth="560" frameHeight="411"/>
+	<SubTexture name="NeneDown0003" x="560" y="0" width="544" height="411" frameX="-8" frameY="0" frameWidth="560" frameHeight="411"/>
+	<SubTexture name="NeneDown0004" x="560" y="0" width="544" height="411" frameX="-8" frameY="0" frameWidth="560" frameHeight="411"/>
+	<SubTexture name="NeneHEY!0000" x="1104" y="0" width="513" height="443" frameX="0" frameY="0" frameWidth="513" frameHeight="444"/>
+	<SubTexture name="NeneHEY!0001" x="1104" y="0" width="513" height="443" frameX="0" frameY="0" frameWidth="513" frameHeight="444"/>
+	<SubTexture name="NeneHEY!0002" x="0" y="443" width="482" height="439" frameX="-17" frameY="-5" frameWidth="513" frameHeight="444"/>
+	<SubTexture name="NeneHEY!0003" x="0" y="443" width="482" height="439" frameX="-17" frameY="-5" frameWidth="513" frameHeight="444"/>
+	<SubTexture name="NeneHEY!0004" x="482" y="443" width="492" height="440" frameX="-12" frameY="-4" frameWidth="513" frameHeight="444"/>
+	<SubTexture name="NeneHEY!0005" x="482" y="443" width="492" height="440" frameX="-12" frameY="-4" frameWidth="513" frameHeight="444"/>
+	<SubTexture name="NeneHEY!0006" x="482" y="443" width="492" height="440" frameX="-12" frameY="-4" frameWidth="513" frameHeight="444"/>
+	<SubTexture name="NeneHEY!0007" x="482" y="443" width="492" height="440" frameX="-12" frameY="-4" frameWidth="513" frameHeight="444"/>
+	<SubTexture name="NeneIdle0000" x="974" y="443" width="354" height="430" frameX="-4" frameY="-11" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0001" x="974" y="443" width="354" height="430" frameX="-4" frameY="-11" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0002" x="1328" y="443" width="348" height="433" frameX="-7" frameY="-9" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0003" x="1328" y="443" width="348" height="433" frameX="-7" frameY="-9" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0004" x="1676" y="443" width="352" height="439" frameX="-3" frameY="-3" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0005" x="1676" y="443" width="352" height="439" frameX="-3" frameY="-3" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0006" x="0" y="883" width="353" height="442" frameX="-1" frameY="0" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0007" x="0" y="883" width="353" height="442" frameX="-1" frameY="0" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0008" x="353" y="883" width="354" height="442" frameX="0" frameY="0" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0009" x="353" y="883" width="354" height="442" frameX="0" frameY="0" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0010" x="353" y="883" width="354" height="442" frameX="0" frameY="0" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0011" x="353" y="883" width="354" height="442" frameX="0" frameY="0" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0012" x="353" y="883" width="354" height="442" frameX="0" frameY="0" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneIdle0013" x="353" y="883" width="354" height="442" frameX="0" frameY="0" frameWidth="358" frameHeight="442"/>
+	<SubTexture name="NeneLeft0000" x="707" y="883" width="395" height="445" frameX="0" frameY="-2" frameWidth="396" frameHeight="447"/>
+	<SubTexture name="NeneLeft0001" x="707" y="883" width="395" height="445" frameX="0" frameY="-2" frameWidth="396" frameHeight="447"/>
+	<SubTexture name="NeneLeft0002" x="1102" y="883" width="386" height="447" frameX="-10" frameY="0" frameWidth="396" frameHeight="447"/>
+	<SubTexture name="NeneLeft0003" x="1102" y="883" width="386" height="447" frameX="-10" frameY="0" frameWidth="396" frameHeight="447"/>
+	<SubTexture name="NeneLeft0004" x="1102" y="883" width="386" height="447" frameX="-10" frameY="0" frameWidth="396" frameHeight="447"/>
+	<SubTexture name="NeneLeft0005" x="1102" y="883" width="386" height="447" frameX="-10" frameY="0" frameWidth="396" frameHeight="447"/>
+	<SubTexture name="NeneRight0000" x="1488" y="883" width="510" height="440" frameX="-9" frameY="0" frameWidth="519" frameHeight="440"/>
+	<SubTexture name="NeneRight0001" x="1488" y="883" width="510" height="440" frameX="-9" frameY="0" frameWidth="519" frameHeight="440"/>
+	<SubTexture name="NeneRight0002" x="0" y="1330" width="513" height="439" frameX="0" frameY="-1" frameWidth="519" frameHeight="440"/>
+	<SubTexture name="NeneRight0003" x="0" y="1330" width="513" height="439" frameX="0" frameY="-1" frameWidth="519" frameHeight="440"/>
+	<SubTexture name="NeneRight0004" x="0" y="1330" width="513" height="439" frameX="0" frameY="-1" frameWidth="519" frameHeight="440"/>
+	<SubTexture name="NeneRight0005" x="0" y="1330" width="513" height="439" frameX="0" frameY="-1" frameWidth="519" frameHeight="440"/>
+	<SubTexture name="NeneUp0000" x="513" y="1330" width="494" height="483"/>
+	<SubTexture name="NeneUp0001" x="513" y="1330" width="494" height="483"/>
+	<SubTexture name="NeneUp0002" x="1007" y="1330" width="491" height="479" frameX="-1" frameY="-3" frameWidth="494" frameHeight="483"/>
+	<SubTexture name="NeneUp0003" x="1007" y="1330" width="491" height="479" frameX="-1" frameY="-3" frameWidth="494" frameHeight="483"/>
+	<SubTexture name="NeneUp0004" x="1007" y="1330" width="491" height="479" frameX="-1" frameY="-3" frameWidth="494" frameHeight="483"/>
+	<SubTexture name="NeneUp0005" x="1007" y="1330" width="491" height="479" frameX="-1" frameY="-3" frameWidth="494" frameHeight="483"/>
+</TextureAtlas>

@@ -1,0 +1,311 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "ewsoft",
+		"player1": "bf-cool-gg",
+		"player2": "matt-graffiti",
+		"player3": null,
+		"player4": null,
+		"player5": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"sing shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				187.5,
+				[
+					[
+						"health_drain",
+						"",
+						""
+					]
+				]
+			],
+			[
+				375,
+				[
+					[
+						"Combocounter",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"shakey arrows",
+						"little",
+						""
+					]
+				]
+			],
+			[
+				48007.8125,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				48011.71875,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				70500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				70875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				71250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				71625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				71812.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"shakey arrows",
+						"normal",
+						""
+					]
+				]
+			],
+			[
+				96007.8125,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.1"
+					]
+				]
+			],
+			[
+				96011.71875,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				96011.71875,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				118875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				119250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				119625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				119812.5,
+				[
+					[
+						"Add Camera Zoom",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				120007.8125,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				120011.71875,
+				[
+					[
+						"shakey arrows",
+						"medium",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"shakey arrows",
+						"normal",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"sing shake",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132011.71875,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Add Camera Zoom",
+						"4",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-rtx",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Starstruck"
+	}
+}

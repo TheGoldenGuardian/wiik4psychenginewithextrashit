@@ -13,6 +13,17 @@
 		},
 		{
 			"offsets": [
+				68,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "matt HEY"
+		},
+		{
+			"offsets": [
 				27,
 				85
 			],

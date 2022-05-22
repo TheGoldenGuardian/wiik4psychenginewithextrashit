@@ -1,6 +1,6 @@
 ﻿--Some quick settings here
-local YourName = 'Yuri'
-local ImageFileName = 'Yuri'
+local YourName = 'Blitz'
+local ImageFileName = 'Blitz'
 local BoxTransparency = 0.6
 ---------------------------
 
@@ -10,8 +10,8 @@ function onCreatePost()
         -- NewCardHudSprite('BotplayLol', '💀', 0, 250, 0.5, 0.5, 1, true);
         -- setProperty('healthBar.alpha', 0);
     -- else
-        NewCardHudSprite('Rectangle', 'rectangle', 490, 590, 0.5, 0.5, BoxTransparency, true);
-        NewCardHudSprite('Card', 'Picture/'..ImageFileName, 490, 590, 0.545, 0.545, 1, true);
+        NewCardHudSprite('Rectangle', 'frame', 490, 590, 0.5, 0.5, BoxTransparency, true);
+        NewCardHudSprite('Card', 'portraits/'..ImageFileName, 490, 590, 0.545, 0.545, 1, true);
         NewCardHudText('Name', YourName, 999, 576, 591, 'left', 23);
         -- if getProperty('practiceMode') == true then
             -- NewCardHudText('PMMisses', '0', 400, -13, 280, 'center', 42);
@@ -126,7 +126,7 @@ function onUpdate()
 end
 
 function NewCardHudSprite(tag, image, x, y, xscale, yscale, alpha, top)
-    makeLuaSprite(tag, 'ProfileCardAssets/'..image, x, y);
+    makeLuaSprite(tag, 'infocard/'..image, x, y);
     scaleObject(tag, xscale, yscale);
     setProperty(tag..'.alpha', alpha);
     setObjectCamera(tag, 'infocard');
