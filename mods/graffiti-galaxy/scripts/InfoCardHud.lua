@@ -1,6 +1,6 @@
 ﻿--Some quick settings here
-local YourName = 'Blitz'
-local ImageFileName = 'Blitz'
+local YourName = 'Yuri'
+local ImageFileName = 'Yuri'
 local BoxTransparency = 0.6
 ---------------------------
 
