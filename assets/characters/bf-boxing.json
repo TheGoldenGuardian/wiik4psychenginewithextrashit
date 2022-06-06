@@ -1,0 +1,254 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Attack Down "
+		},
+		{
+			"offsets": [
+				163,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF Attack Left"
+		},
+		{
+			"offsets": [
+				152,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Attack Up "
+		},
+		{
+			"offsets": [
+				150,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF Attack Right"
+		},
+		{
+			"offsets": [
+				-49,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockDOWN",
+			"indices": [],
+			"name": "BF Block Down"
+		},
+		{
+			"offsets": [
+				-48,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockUP",
+			"indices": [],
+			"name": "BF Block Up"
+		},
+		{
+			"offsets": [
+				-48,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockLEFT",
+			"indices": [],
+			"name": "BF Block Left"
+		},
+		{
+			"offsets": [
+				-49,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockRIGHT",
+			"indices": [],
+			"name": "BF Block Right"
+		},
+		{
+			"offsets": [
+				-40,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodgeUP",
+			"indices": [],
+			"name": "BF Dodge Up"
+		},
+		{
+			"offsets": [
+				-40,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodgeDOWN",
+			"indices": [],
+			"name": "BF Dodge Down"
+		},
+		{
+			"offsets": [
+				-48,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "backhit",
+			"indices": [],
+			"name": "BF hit in the back"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				-3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				8
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF Miss Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-5
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF Miss Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				169,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF Miss Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY!!"
+		},
+		{
+			"offsets": [
+				950,
+				290
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "fight",
+			"indices": [],
+			"name": "Symbol 24"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				420
+			],
+			"anim": "glow",
+			"fps": 24,
+			"name": "BF GlowEyes Dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-150,
+				420
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "BF GlowEyes Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-10
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "BF hit in the back",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boxing/BF Boxing",
+	"position": [
+		40,
+		450
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

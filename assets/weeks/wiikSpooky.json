@@ -1,0 +1,48 @@
+{
+	"storyName": "halloween special wiik",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Spooknight",
+			"matt",
+			[
+				186,
+				113,
+				253
+			]
+		],
+		[
+			"Sporting Monsta",
+			"matt",
+			[
+				226,
+				113,
+				255
+			]
+		],
+		[
+			"Scary Skeletons",
+			"matt",
+			[
+				255,
+				113,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"parents",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf",
-		"player2": "whitty",
+		"player1": "bf-cool",
+		"player2": "whitty-aside",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -8368,7 +8368,7 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
+		"gfVersion": "gf-boombox",
 		"events": [
 			[
 				123428.571428571,

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				170,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				560,
+				380
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF Dead Counter",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				323,
+				-102
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boxing/BF Boxing",
+	"position": [
+		40,
+		450
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
